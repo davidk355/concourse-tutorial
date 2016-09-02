@@ -10,37 +10,7 @@ resources:
     branch: master
     uri: git@gist.github.com:97a8009d63187aec5475e2f135e5d6f9.git
     branch: master
-    private_key: |-
-      -----BEGIN RSA PRIVATE KEY-----
-      Proc-Type: 4,ENCRYPTED
-      DEK-Info: AES-128-CBC,D7C3AC044C2DD3CAF43BD576920DD879
-
-      3dNBIh1WCbW+FDpm76Uxo2T/SOegx7PRU08/rTQKSidSZ940OekQC3YE8AYjaPg9
-      PufmwyU/5hI7w24NIgLbfDoWLJAVvyGIS1ZfxRE5nRjWP7zVlVa+hKAsrTgHdZdV
-      Z6Ts0V8GBHEmusClKktBFnrtqoxr0uTSm6nIbvehnT1qntZHbIREg8U/8U5sZm5k
-      aWQ1AKtmKQyDhLpPwl1l/NcPNUSwQ3e1O2SKlUEP6B9McwDzxk4VlsVcI7olmTX7
-      khZOAUe90wktCkTf0jNSOc3DYLHhc6QUpy1w8HeqV2TPLdki6sp38Sg0AjET+hvj
-      JGhvhYYSi0gXAa9lqpTsoEY3m73nova1WDMv1ARI8fJMWbzj/B8KK+YmF4EiSfK3
-      Beo+JFmCHnSarWoZ+wfEMaAeU44zkoBuaCKFV7ndEwqJu3cuckN8uXswFwQZdXtw
-      /5vC7adytuCAoC6AXB/Cs3eKsPBM0vNwi/qIpJnqwkoZCWiEXRAGicTzieYQjZRt
-      vBsmCK5Mm+RC3w9Nmfx6hWEdXrflYkv8jTYvikiD8boyEJH2p4rJmhHJcVgRWoPl
-      9q83c6yQ22gvFIOdtOVa/RerpyLfY1wQrbGH+wfAB3y5peznK88qsIfhhm5xeAy5
-      SlDhRV+7UowqLoeIetj++OMLrRtoT6hAE6mz5b1VDhK6VRh06wiCGSqkuBeUBzfk
-      dtI1D3SIKhHoqOS9FCpTUyNAO8gZ+FY/dSgcqtJThTpMpBXVcb2aGc+GWpa0SrlY
-      C8mqKSkRLpgMkwn4wAD0HyQfctIThecMWR+I6e7ZxWlopsepCUn9Uw/zFkQXbFdi
-      3tOn3l9jgEEItW+n++0b03O1oV52PZjnVTmJhMFVCoocu/aVuwB4hWRGg0JoNkSm
-      3SZGyukQDyazqfG5GY5gVLj/p2Ps7CwnnRPJgnjo6nq7KIiN/M9+q3SnsL8VLBsM
-      BxxRnZGUM9dZQWbAuCCIzccnTbbSQlBGL8c614j+1aM2Oesgdr8K6fZ0mtiZ6c1B
-      F4Cok0VEtUlh2FdJGr2ZaDT0DPKmq8/AUWVhJ7soxGs3o7eMRI+iOW1o0Tr4o34T
-      XL8Q9r5MtilErTrTsk0mX7GYOmeasvTTUQVqP4VG/Ex3pASU24FCLdBvFO5HBdCj
-      cPbWB9cDCfbsvaYqo16TfQwwfqzPcKbFql8Q8Db4bQNaVJFr+6AyliVrtwmcyP43
-      LVYi1wCpqaX8W7RN41h4PiVG9viTVuxNHAHGYmiYoeYz2eYfp/qiIwIPR38k1Ble
-      fsAGFxAEQlge1gAcSjAOuJZt5Tft21O+ORx4FRrzMfyyxqd+x7BozHPR1hWVqtU7
-      wiFPOZq3huyn5ImlTtmwA66uctmWb/LzP+6VoM2pcZ9D4kGmbHzOu+ETdt+zr0i0
-      30NHT8J5kahjm2bte95RFnpGZ6IUPbFdJlXLOqASpQBZe5rqAvkdYuoZjta15S8d
-      DnK067nyfqOqa7ktvfoe2B2UlazD8+JkWWPJhohIBUtmcUOtEWlM7vaEnczFTRak
-      CLwnXMB0Xqjs2W9NqrTzUb/byOukwh9U1kdkc4qLrcNt3ixuI2JSawX8KWof0bCD
-      -----END RSA PRIVATE KEY-----
+    private_key: {git-private-key}
 
 
 jobs:
